@@ -1,0 +1,17 @@
+.cache
+.coverage
+.DS_Store
+.eslintcache
+.idea
+.nyc_output
+.vs
+.test_report
+mochawesome-report
+coverage
+cache
+dist
+log
+node_modules
+shelljs_*
+test/mock/mock-template-build
+yarn.lock
